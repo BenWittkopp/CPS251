@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Assignment_1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_3">Button 3</string>
+    <string name="this_is_my_layout_project">This is my layout project</string>
+    <string name="smiley_face">Smiley_Face</string>
+    <string name="check_box_1">Check Box 1</string>
+    <string name="check_box_2">Check Box 2</string>
+    <string name="check_box_3">Check Box 3</string>
+    <string name="check_box_4">Check Box 4</string>
+    <string name="check_box_5">Check Box 5</string>
+    <string name="check_box_6">Check Box 6</string>
+</resources>
