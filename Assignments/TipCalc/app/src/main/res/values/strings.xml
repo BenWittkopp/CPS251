@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TipCalc</string>
+    <string name="TextField">Enter Bill Total</string>
+    <string name="TextView">Tip ammounts will display here</string>
+    <string name="Button">Calculate Tip</string>
+    <string name="hint">hint</string>
+    <string name="enter_bill_total">Enter Bill Total</string>
+</resources>
